@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>werken-bij/vacatures/frontend developer</title>
+</head>
+  <h1>Wij zoeken een Medior Front end Developer</h1>
+  <!-- ik ben nog een noob! Dit is een leerproces -->
+  <p> Voor ons is een website veel meer dan alleen een uithangbord. Een website is de meest belangrijke Touch point voor de marketing platformen die wij voor onze klanten creren. </p>
+  
+  <h2>WAT JE DOET</h2>
+ <p>Daarom is het voor ons van belang dat onze Front end Developers  ontwikkelen met de nieuwste- en de meest betrouwbare-technieken.<br /> Jij zal als onderdeel van het team dit ook bewaken. Dit betekent dat jij verder kan kijken dan jouw stuk van het proces.<br /> Als Front-end ontwikkelaar ben jij continu bezig met het vertalen van het design in JavaScript.<br /> Jij houdt rekening met cross-browser compatibility, accessibility en SEO.<br /> Je hebt een duidelijke visie op wat goede code is en welke frameworks ook door ons moeten worden gebruikt en weegt dan de trends tegen betrouwbaarheid af.<br /> Onze klanten verwachten namelijk kwalitatieve en innovatieve oplossingen. Wij zijn trots op het werk wat wij doen voor Heineken, Priva en Volkswagen.<br /> In de ketting van ons platform is jouw werk een belangrijke schakel!<br /> Daarom werken wij in multidisciplinaire teams waarin korte iteraties steeds verbeteringen en nieuwe features worden toegevoegd en wordt een ieders bijdrage ge-challenged.</p>
+  
+  <h2>JOUW ACHTERGROND</h2>
+  <p>Jij bent een echte Front-end Developer en trots op het werk dat je levert. Je hebt al vaker grote websites of front-end oplossingen gebouwd en daarnaast kennis van CMS-systemen. Je hebt goede kennis van Javascript en bent op de hoogte van de nieuwe ontwikkelingen. Bij voorkeur heb je naast je kennis van Javascript ook kennis van Typescript en de bekende frameworks als Angular,Vue of React. Je hebt al eerder gewerkt in een Agile omgeving en je weet wat jouw werk voor invloed heeft op de backend.</p>
+  
+  <p>Verder heb je:</p>
+  <ul>
+    <li>Hbo-niveau werk- en denk niveau</li>
+    <li>Minimaal 2 jaar ervaring als Front-end Developer </li>
+    <li>Gedegen kennis van Javascript </li>
+    <li>Kennis van CMS-systemen bij voorkeur Sitecore </li>
+    <li>Oog voor detail </li>
+  </ul>
+  
+  <h2>Wij BIEDEN</h2>
+  <p>Een baan waarin jij het visitekaartje bent van Macaw Interactive. Je werkt niet alleen met de beste mensen uit het vakgebied, maar ook met de gaafste klanten.</p>
+  <ol>
+    <li>Concurrerend salaris, afhankelijk van kennis en ervaring </li>
+    <li>Eigen opleidingsbudget </li>
+    <li>Wekelijkse kennisdelingslunch</li>
+    <li>Jaarlijkse buitenlandtripjes met het gehele bedrijf</li>
+    <li>Transparantie in bedrijfsdoelen en resultaten</li>
+    <li>Fantastische versbereide lunches van onze eigen chef-kok</li>
+  </ol>
+  <a href="https://www.macaw.nl/werken-bij/wat-wij-bieden" target="_blank">kijk hier wat wij te bieden hebben! </a>
+ <!-- Vacature nog niet op de website. Daarom weg gecomment!
+<a href="https://www.macaw.nl/werken-bij/vacatures" target="_blank">
+  <img src="https://www.macaw.nl/-/media/images/vacatures/correcte-visuals-vacatures/senior-front-end-developer.ashx" alt="link naar de frontend vacature"/></a> -->
+  
+<body>
+
+
+
+</body> 
+</html>
